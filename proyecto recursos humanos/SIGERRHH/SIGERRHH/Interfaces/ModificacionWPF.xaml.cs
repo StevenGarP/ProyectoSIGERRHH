@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace SIGERRHH.Interfaces
 {
     /// <summary>
-    /// Lógica de interacción para Window3.xaml
+    /// Lógica de interacción para Window4.xaml
     /// </summary>
-    public partial class Window3 : Window
+    public partial class Window4 : Window
     {
-        public Window3()
+        public Window4()
         {
             InitializeComponent();
         }

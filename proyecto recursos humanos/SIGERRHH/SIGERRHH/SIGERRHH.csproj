@@ -63,11 +63,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Interfaces\ReasignacionWPF.xaml">
+    <Page Include="Interfaces\BajaWPF.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Interfaces\BajaWPF.xaml">
+    <Page Include="Interfaces\ModificacionWPF.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -85,11 +85,11 @@
     <Compile Include="Interfaces\EmpleadosWPF.xaml.cs">
       <DependentUpon>EmpleadosWPF.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Interfaces\ReasignacionWPF.xaml.cs">
-      <DependentUpon>ReasignacionWPF.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Interfaces\BajaWPF.xaml.cs">
       <DependentUpon>BajaWPF.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\ModificacionWPF.xaml.cs">
+      <DependentUpon>ModificacionWPF.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>

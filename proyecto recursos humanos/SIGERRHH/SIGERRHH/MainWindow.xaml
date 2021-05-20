@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SIGERRHH"
         mc:Ignorable="d"
-        Title="Proyecto Carlos Pineda y Steven Garcia Progra 1, B" Height="450" Width="633.452">
+        Title="Proyecto Carlos Pineda y Steven Garcia Progra 1B" Height="450" Width="633.452">
     <Grid Margin="0,0,22,0">
         <Button Content="Reclutamiento" HorizontalAlignment="Left" Height="130" Margin="44,101,0,0" VerticalAlignment="Top" Width="235"/>
         <Button Content="Empleados" HorizontalAlignment="Left" Height="130" Margin="44,259,0,0" VerticalAlignment="Top" Width="235"/>

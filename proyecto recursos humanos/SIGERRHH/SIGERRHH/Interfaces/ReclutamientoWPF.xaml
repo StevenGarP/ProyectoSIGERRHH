@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SIGERRHH.Interfaces"
         mc:Ignorable="d"
-        Title="Window1" Height="771.428" Width="632.857">
+        Title="Proyecto Carlos Pineda y Steven Garcia progra 1B" Height="771.428" Width="632.857">
     <Grid Margin="0,0,2,0">
         <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="66" Margin="0,0,-24,0" VerticalAlignment="Top" Width="627" Background="Blue">
             <TextBlock HorizontalAlignment="Center" FontSize="35" Margin="232,-1,232,1">SIGERRHH</TextBlock>
