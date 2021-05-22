@@ -1,0 +1,32 @@
+﻿<Window x:Class="SIGERRHH.Interfaces.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SIGERRHH.Interfaces"
+        mc:Ignorable="d"
+        Title="Proyecto Carlos Pineda y Steven Garcia progra 1B" Height="520" Width="631.25">
+
+
+    <Grid>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="66" Margin="0,0,-1,0" VerticalAlignment="Top" Width="627" Background="Blue" Grid.ColumnSpan="2">
+            <TextBlock HorizontalAlignment="Center" FontSize="35" Margin="232,-1,232,1">SIGERRHH</TextBlock>
+        </Border>
+        <TextBlock HorizontalAlignment="Left" FontSize="15" Margin="181,40,0,423" Width="274">(Sistema de Gestion de Recurso Humano)</TextBlock>
+        <Label Content="DPI " FontSize="20" HorizontalAlignment="Left" Height="42" Margin="18,68,0,0" VerticalAlignment="Top" Width="52"/>
+        <TextBox x:Name="Mdpi" HorizontalAlignment="Left" Height="26" Margin="90,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="386"/>
+        <Button Background="Gold"  Content="Buscar" HorizontalAlignment="Left" Height="26" Margin="512,73,0,0" VerticalAlignment="Top" Width="93" Click="Button_Click"/>
+        <TextBox x:Name="Mnombre" Background="Gray"  HorizontalAlignment="Left" Height="26" Margin="137,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="318" RenderTransformOrigin="0.548,0.654" IsEnabled="False"/>
+        <TextBox x:Name="Medad" Background="Gray" HorizontalAlignment="Left" Height="26" Margin="137,209,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="318" IsEnabled="False"/>
+        <TextBox x:Name="Msalario" Background="Gray" HorizontalAlignment="Left" Height="26" Margin="137,168,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="318"/>
+        <TextBox x:Name="Mpuesto" Background="Gray" HorizontalAlignment="Left" Height="26" Margin="137,257,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="318"/>
+        <Label Background="LightBlue"  Content="Nombre" FontSize="15" HorizontalAlignment="Left" Height="26" Margin="36,124,0,0" VerticalAlignment="Top" Width="76"/>
+        <Label Background="LightBlue" Content="Salario" FontSize="15" HorizontalAlignment="Left" Height="26" Margin="36,168,0,0" VerticalAlignment="Top" Width="76"/>
+        <Label Background="LightBlue" Content="Edad" FontSize="15" HorizontalAlignment="Left" Height="26" Margin="36,209,0,0" VerticalAlignment="Top" Width="76"/>
+        <Label Background="LightBlue" Content="Puesto" FontSize="15" HorizontalAlignment="Left" Height="26" Margin="36,257,0,0" VerticalAlignment="Top" Width="76"/>
+        <Button Background="Gold"  Content="Reasignar" FontSize="15" HorizontalAlignment="Left" Height="32" Margin="224,350,0,0" VerticalAlignment="Top" Width="167" Click="Button_Click_1"/>
+        <TextBox x:Name="Mdepto" Background="Gray" HorizontalAlignment="Left" Height="26" Margin="137,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="318"/>
+        <Label Background="LightBlue" Content="Depto" FontSize="15" HorizontalAlignment="Left" Height="30" Margin="36,304,0,0" VerticalAlignment="Top" Width="76"/>
+
+    </Grid>
+</Window>

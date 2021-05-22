@@ -1,0 +1,19 @@
+﻿<Window x:Class="SIGERRHH.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SIGERRHH"
+        mc:Ignorable="d"
+        Title="Proyecto Carlos Pineda y Steven Garcia Progra 1B" Height="450" Width="633.452">
+    <Grid Margin="0,0,22,0">
+        <Button Content="Reclutamiento" HorizontalAlignment="Left" Height="130" Margin="44,101,0,0" VerticalAlignment="Top" Width="235" Click="Button_Click"/>
+        <Button Content="Empleados" HorizontalAlignment="Left" Height="130" Margin="44,259,0,0" VerticalAlignment="Top" Width="235" Click="Button_Click_1"/>
+        <Button Content="Reasignacion" HorizontalAlignment="Left" Height="130" Margin="348,101,0,0" VerticalAlignment="Top" Width="235" Click="Button_Click_2"/>
+        <Button Content="Baja" HorizontalAlignment="Left" Height="130" Margin="348,259,0,0" VerticalAlignment="Top" Width="235" Click="Button_Click_3"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="66" Margin="0,0,-24,0" VerticalAlignment="Top" Width="627" Background="Blue">
+            <TextBlock HorizontalAlignment="Center" FontSize="35" Margin="232,-1,232,1">SIGERRHH</TextBlock>
+        </Border>
+        <TextBlock HorizontalAlignment="Left" FontSize="15" Margin="181,40,0,353">(Sistema de Gestion de Recurso Humano)</TextBlock>
+    </Grid>
+</Window>

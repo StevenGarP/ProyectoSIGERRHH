@@ -1,0 +1,69 @@
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\bin\Debug\SIGERRHH.exe.config
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\bin\Debug\SIGERRHH.exe
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\bin\Debug\SIGERRHH.pdb
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\ReclutamientoWPF.g.cs
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\EmpleadosWPF.g.cs
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\ReasignacionWPF.g.cs
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\BajaWPF.g.cs
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH_MarkupCompile.cache
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH_MarkupCompile.lref
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\ReclutamientoWPF.baml
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\EmpleadosWPF.baml
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\ReasignacionWPF.baml
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\BajaWPF.baml
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.g.resources
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.Properties.Resources.resources
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.exe
+C:\Users\HP\Desktop\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.pdb
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\bin\Debug\SIGERRHH.exe.config
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\bin\Debug\SIGERRHH.exe
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\bin\Debug\SIGERRHH.pdb
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\ReclutamientoWPF.g.cs
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\EmpleadosWPF.g.cs
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\BajaWPF.g.cs
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\ModificacionWPF.g.cs
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\MainWindow.g.cs
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\App.g.cs
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH_MarkupCompile.cache
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH_MarkupCompile.lref
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\ReclutamientoWPF.baml
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\EmpleadosWPF.baml
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\BajaWPF.baml
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\Interfaces\ModificacionWPF.baml
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\MainWindow.baml
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.g.resources
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.exe
+C:\Users\carlo\OneDrive\Documentos\Universidad\Tercer Semestre\Programación I\Proyecto\proyecto recursos humanos\SIGERRHH\SIGERRHH\obj\Debug\SIGERRHH.pdb
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\bin\Debug\SIGERRHH.exe.config
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\bin\Debug\SIGERRHH.exe
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\bin\Debug\SIGERRHH.pdb
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\SIGERRHH.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\Interfaces\ReclutamientoWPF.g.cs
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\Interfaces\EmpleadosWPF.g.cs
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\Interfaces\BajaWPF.g.cs
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\Interfaces\ModificacionWPF.g.cs
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\SIGERRHH_MarkupCompile.cache
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\SIGERRHH_MarkupCompile.lref
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\Interfaces\ReclutamientoWPF.baml
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\Interfaces\EmpleadosWPF.baml
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\Interfaces\BajaWPF.baml
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\Interfaces\ModificacionWPF.baml
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\SIGERRHH.g.resources
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\SIGERRHH.Properties.Resources.resources
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\SIGERRHH.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\SIGERRHH.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\SIGERRHH.exe
+C:\Users\HP\Desktop\SIGERRHH2.0\SIGERRHH\obj\Debug\SIGERRHH.pdb
